@@ -1,0 +1,29 @@
+_repo: Their-Silver-Wedding-Journey---Volume-3_3373
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2004-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3373'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transatlantic voyages -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Americans -- Europe -- Fiction'
+- GITenberg
+title: Their Silver Wedding Journey — Volume 3
+url: http://www.gutenberg.org/ebooks/3373
